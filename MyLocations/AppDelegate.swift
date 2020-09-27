@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MyLocations
 //
-//  Created by Jeannine Roxas on 9/27/20.
+//  Created by Jonathon Belliveau on 9/15/20.
 //  Copyright © 2020 Jonathon Belliveau. All rights reserved.
 //
 
